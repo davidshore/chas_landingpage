@@ -15,7 +15,7 @@ En landningssida består av ofta av följande delar:
 
 ## Hur du klarar uppgiften
 
-Ni ska utgå från texten på chasacademy.se och skapa er sida med ovan listade delar enligt bilden nedanför.
+Ni ska utgå från texten på chasacademy.se och skapa er sida med ovan listade delar enligt bilden nedanför. Knappar och länkar behöver inte fungera.
 
 ![Design](https://github.com/davidshore/chas_landingpage/blob/main/webbsida.png)
 
